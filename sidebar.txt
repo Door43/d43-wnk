@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wnk:home|Door43 (wnk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wnk|d43-wnk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wnk/archive/master.zip|d43-wnk.zip]]
+
+**Recent Changes**
+{{changes>ns = wnk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wnk|Ethnologue data]]
+
